@@ -2,9 +2,12 @@
   <h1>nextjs-static-app</h1>
 <div>
 
+<div align="left">
+
 # How to use
 
 ```
+# install deps
 $ yarn
 
 # for dev
@@ -15,7 +18,7 @@ $ yarn generate
 $ open file:/{pwd}/dist/index.html
 ```
 
-# feature
+# Feature
 
 - Next.js
 - TypeScript
@@ -24,3 +27,4 @@ $ open file:/{pwd}/dist/index.html
 - Chakra UI
 - GitHub Actions
 - Renovate
+</div>
